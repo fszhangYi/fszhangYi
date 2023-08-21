@@ -25,7 +25,7 @@ jobs:
       # 使用 KunLunXu-CC/juejin-posts-action 生成文章列表, 
       # see: https://github.com/KunLunXu-CC/juejin-posts-action
       - name: Append Juejin Posts List 🔧
-        uses: KunLunXu-CC/juejin-posts-action@main
+        uses: fszhangYi/juejin-posts-action@main
         with: 
           user_id: "4459274891717223"
   
