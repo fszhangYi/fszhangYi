@@ -1,3 +1,6 @@
+<!-- emoji 取自: http://emojihomepage.com -->
+<!-- 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+
 <p align="center">
   <h1 height="200px" align="center">
     Hello <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm MuZhongQing
@@ -38,7 +41,10 @@
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/893283824837655) ~
 - ⛺️ I have a private site: [MuZhongQing](https://muzhongqing.xyz), you're welcome to come! ~
 - 📨 My email address is `daqi_1995@163.com` Welcome to contact me 👏🏻 ~
+<br />
 
+<!-- Contributions -->
+<h2 height="200px" align="center">🤝 Contributions</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
@@ -56,9 +62,10 @@
     </td>
   </tr>
 </table>
+<br />
 
 <!-- 掘金热门文章 -->
-<h2 height="200px" align="center">Hot Papers</h2>
+<h2 height="200px" align="center">📖 Hot Papers</h2>
 <br />
 <!-- posts start -->
 <ul>
