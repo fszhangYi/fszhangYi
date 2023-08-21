@@ -23,4 +23,19 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-🔗 <a href=https://juejin.cn/user/893283824837655>Connect me</a>
+<!-- 背景图 -->
+<br />
+<br />
+<!-- <img align="right" alt="GIF" src="./assets/bg.png" width="400"/> -->
+
+<!-- 关于我 -->
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+
+- 🔭 I’m currently working on [supcon](http://www.supcontech.com/)~
+- 🏋 I'm passionate about fitness, and it pays off ~
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/893283824837655) ~
+- ⛺️ I have a private site: [MuZhongQing](https://muzhongqing.xyz), you're welcome to come! ~
+- 📨 My email address is `daqi_1995@163.com` Welcome to contact me 👏🏻 ~
+
