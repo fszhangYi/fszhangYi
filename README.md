@@ -74,12 +74,12 @@
 <li>[undefined] <a href="https://juejin.cn/post/7282953307530887179">Markdown 转微信公众号, 又何必借助于其他工具？？</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7291598231954948152">Sharp: 压缩图片用啥 TinyPNG, 我也可以, 而且还免费呢?</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7297790121724641331">什么不支持 transition ? 那是你不知道 @property 好不好？</a></li>
+<li>[undefined] <a href="https://juejin.cn/post/7409238250043097100">再战 OpenWrt - 树莓派 SSD 启动</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7401735715782590527">树莓派 - SSD 启动 🛫🛫🛫</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7401773397313077311">Graphql Codegen - 自动生成 TS 类型</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7380694342744735782">NextJS 国际化 - 原生实现</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7373961220582522932">GitHub Actions 编译 OpenWrt 固件(树莓派 4B)</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7366948087129325604">随手记第三弹 - 基于 File 对象生成 MD5</a></li>
-<li>[undefined] <a href="https://juejin.cn/post/7359203560166768650">Next 项目搭建指南(写着写着就 3 万多字了~~~)</a></li>
 </ul>
 
 </ul>
